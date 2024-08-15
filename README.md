@@ -1,4 +1,4 @@
-<h3 align="left">Oi! Eu sou o David Costa de Araújo 👋🏽  <br>  - 22/05/2005, 19 anos 🗓 <br>  - Estou cursando Sistemas de Informação 💻 <br>  - UNEMAT/MT, 2º semestre 📚 <br>  - 15dca15@gmail.com</h3>
+<h3 align="left">Oi! Eu sou o David Costa de Araújo 👋🏽  <br>  - 22/05/2005, 19 anos 🗓 <br>  - Estou cursando Sistemas de Informação 💻 <br>  - UNEMAT/MT, 2º semestre 📚</h3>
 
 ##
 
